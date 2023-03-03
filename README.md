@@ -1,5 +1,5 @@
-# Housing_
-Housing Data in USA
+# Sales
+Analysing Sales Data
 steps
 ------------
 
@@ -7,4 +7,6 @@ steps
 (import pandas)
 (import numpy)
 
-2. Do EDA on data
+2. calculate sales tax
+
+3. Calculate total revenue
